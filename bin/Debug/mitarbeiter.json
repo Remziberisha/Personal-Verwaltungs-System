@@ -1,0 +1,16 @@
+[
+  {
+    "Vorname": "Bob",
+    "Nachname": "Bauer",
+    "Urlaubstage": 30,
+    "Krankheitstage": []
+  },
+  {
+    "Vorname": "Remzi",
+    "Nachname": "Berisha",
+    "Urlaubstage": 30,
+    "Krankheitstage": [
+      "2025-11-20"
+    ]
+  }
+]

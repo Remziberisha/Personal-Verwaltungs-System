@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{EA726420-FC19-4264-A1B6-DE44DA5CFDBF}|PersonalVerwaltungssystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA726420-FC19-4264-A1B6-DE44DA5CFDBF}|PersonalVerwaltungssystem.csproj|c:\\users\\berisharemzi\\source\\repos\\personalverwaltungssystem\\mitarbeiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA726420-FC19-4264-A1B6-DE44DA5CFDBF}|PersonalVerwaltungssystem.csproj|C:\\Users\\BerishaRemzi\\source\\repos\\PersonalVerwaltungssystem\\mitarbeiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA726420-FC19-4264-A1B6-DE44DA5CFDBF}|PersonalVerwaltungssystem.csproj|solutionrelative:mitarbeiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA726420-FC19-4264-A1B6-DE44DA5CFDBF}|PersonalVerwaltungssystem.csproj|c:\\users\\berisharemzi\\source\\repos\\personalverwaltungssystem\\mitarbeiterverwaltung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA726420-FC19-4264-A1B6-DE44DA5CFDBF}|PersonalVerwaltungssystem.csproj|solutionrelative:mitarbeiterverwaltung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +42,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MitarbeiterVerwaltung.cs",
+              "DocumentMoniker": "C:\\Users\\BerishaRemzi\\source\\repos\\PersonalVerwaltungssystem\\MitarbeiterVerwaltung.cs",
+              "RelativeDocumentMoniker": "MitarbeiterVerwaltung.cs",
+              "ToolTip": "C:\\Users\\BerishaRemzi\\source\\repos\\PersonalVerwaltungssystem\\MitarbeiterVerwaltung.cs",
+              "RelativeToolTip": "MitarbeiterVerwaltung.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:20:17.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Mitarbeiter.cs",
               "DocumentMoniker": "C:\\Users\\BerishaRemzi\\source\\repos\\PersonalVerwaltungssystem\\Mitarbeiter.cs",
               "RelativeDocumentMoniker": "Mitarbeiter.cs",
               "ToolTip": "C:\\Users\\BerishaRemzi\\source\\repos\\PersonalVerwaltungssystem\\Mitarbeiter.cs",
               "RelativeToolTip": "Mitarbeiter.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAWwBAAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T16:42:34.908Z",
               "EditorCaption": ""
@@ -57,7 +74,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\BerishaRemzi\\source\\repos\\PersonalVerwaltungssystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T15:47:03.795Z",
               "EditorCaption": ""

@@ -6,20 +6,26 @@ using System.Threading.Tasks;
 
 namespace PersonalVerwaltungssystem
 {
-    internal class Mitarbeiter
+    public class Mitarbeiter
     {
-        string name {  get; set; }
-        string nachNAme { get; set; }
+        public string Vorname {  get; set; }
+        public string Nachname { get; set; }
 
-        int urlaubstage { get; set; }
-        int krankheitstage { get; set; }
+        public int Urlaubstage { get; set; }
+        
+        public List <string> Krankheitstage { get; set; }
 
-        public Mitarbeiter(string name, string nachNAme, int urlaubstage, int krankheitstage)
+        public Mitarbeiter ()
         {
-            this.name = name;
-            this.nachNAme = nachNAme;
-            this.urlaubstage = urlaubstage;
-            this.krankheitstage = krankheitstage;
+            Krankheitstage = new List <string> ();
+        }
+
+        public Mitarbeiter(string name, string nachNAme, int urlaubstage)
+        {
+            Vorname = name;
+            Nachname = nachNAme;
+            Urlaubstage = urlaubstage;
+            Krankheitstage = new List<string> ();
         }
     }
 }
